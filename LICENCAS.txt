@@ -1,0 +1,8 @@
+Instagram Quality - licencas de terceiros
+
+FFmpeg (ffmpeg.exe) - build "full" de gyan.dev, GNU GPL v3.
+  Texto completo da licenca: ffmpeg-LICENSE.txt (nesta pasta). Codigo-fonte e informacoes: https://ffmpeg.org e https://www.gyan.dev/ffmpeg/builds/
+
+Poppins (fonte) - Indian Type Foundry, SIL Open Font License 1.1. https://github.com/google/fonts/tree/main/ofl/poppins
+
+Python, Tcl/Tk, Pillow e NumPy - licencas permissivas (PSF, BSD/HPND, BSD).

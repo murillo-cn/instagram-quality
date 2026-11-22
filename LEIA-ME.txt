@@ -1,0 +1,10 @@
+insta.exe: abre a janela (ou arraste videos/pasta em cima dele). Modo normal e Avancado; ajustes para "Todos os videos" ou "Cada video"; Analisar / Analisar todos.
+Saida: portatil = pasta output ao lado do exe; instalado = Videos\Instagram Quality (o instalador cria installed.flag).
+Config: %APPDATA%\InstagramQuality\config.json. Precisa do ffmpeg.exe junto do insta.exe.
+Codigo: insta.py (interface) + engine.py (motor) + fonts/ + icon.ico.
+
+ATUALIZAR E GERAR INSTALADOR:
+ 1) python -m PyInstaller --onefile -w --name insta --icon "<abs>\icon.ico" --add-data "<abs>onts;fonts" --add-data "<abs>\icon.ico;." insta.py --distpath .
+    (NAO usar --onedir: milhares de arquivos pequenos deixam a instalacao ~3x mais lenta com antivirus)
+ 2) "%LOCALAPPDATA%\Programs\Inno Setup 6\ISCC.exe" instalador.iss   -> instalador\InstagramQuality-Setup-<versao>.exe
+ Ao mudar de versao: AppVer em instalador.iss e APP_VERSION em engine.py.

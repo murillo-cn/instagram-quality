@@ -1,0 +1,10 @@
+# binarios e saidas (vao no Release, nao no git)
+ffmpeg.exe
+insta.exe
+installed.flag
+output/
+instalador/
+__pycache__/
+build/
+dist/
+*.spec
