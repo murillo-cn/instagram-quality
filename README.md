@@ -62,7 +62,7 @@ Dica: o botão **Avançado** (canto superior) revela a ficha técnica e os contr
 Requisitos: Python 3.10+ no Windows e um `ffmpeg.exe` (build "full") na pasta do projeto, ou `ffmpeg` no PATH.
 
 ```bash
-git clone https://github.com/muri222/instagram-quality.git
+git clone https://github.com/murillo-cn/instagram-quality.git
 cd instagram-quality
 pip install -r requirements.txt
 python insta.py            # abre a janela
