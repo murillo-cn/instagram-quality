@@ -12,9 +12,9 @@ App gratuito e open source para Windows: ajusta, analisa e converte vídeos para
 
 <div align="center">
 
-[![Assista ao vídeo de apresentação](docs/thumb.png)](docs/lancamento.mp4)
+![Apresentação do Instagram Quality](docs/lancamento.gif)
 
-**▶ [Assistir à apresentação (53 s, Full HD)](docs/lancamento.mp4)**
+<sub>Prefere em Full HD com som? [Baixe o vídeo completo (1080p)](docs/lancamento.mp4).</sub>
 
 </div>
 
