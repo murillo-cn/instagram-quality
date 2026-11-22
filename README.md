@@ -10,6 +10,14 @@ App gratuito e open source para Windows: ajusta, analisa e converte vídeos para
 
 </div>
 
+<div align="center">
+
+[![Assista ao vídeo de apresentação](docs/thumb.png)](docs/lancamento.mp4)
+
+**▶ [Assistir à apresentação (53 s, Full HD)](docs/lancamento.mp4)**
+
+</div>
+
 ---
 
 ## Por que existe
